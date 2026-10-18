@@ -1,0 +1,62 @@
+/* tag name */
+/* h1{
+    color: red;
+}
+
+div{
+    background-color: orange;
+} */
+
+/* ------------------------------------------- */
+
+/* id selection */
+
+/* #sam{
+    border: 5px solid blue; 
+} */
+
+/* class selection */
+/* .vohra{
+    border: 10px solid green;
+} */
+
+
+/* id > class specificity  */
+
+/* ------------------------------------------- */
+
+/* attribute */
+
+/* a[href="http://google.com"]{
+    color: red;
+    font-family: cursive;
+}
+
+a[href="http://instagram.com"]{
+    color: orange;
+    font-size: 60px;
+}
+
+input[type="password"]{
+    background-color: purple;
+} */
+
+/* ------------------------------------------- */
+
+/* universal = every single element */
+
+/* *{
+    border: 1px solid black;
+} */
+
+
+
+
+#sam{
+    color: red;
+}
+
+.vohra{
+    color: green !important;
+}
+

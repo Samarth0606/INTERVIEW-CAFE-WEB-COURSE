@@ -1,0 +1,22 @@
+div{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+
+    margin: 100px;
+}
+
+div:hover{
+    transition-duration: 2s;
+    /* transform: translateX(200px); */
+    /* transform: translateY(200px); */
+    /* transform: translate(200px , 200px); */
+    /* transform: rotateX(45deg); */
+    /* transform: rotateY(45deg); */
+    /* transform: rotate(45deg); */
+    /* transform: scaleX(1.5);
+    transform: scaleY(1.5); */
+    transform: scale(1.5 , 1.5);
+    transform: scale(.5 , .5);
+
+}

@@ -1,0 +1,22 @@
+div{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+}
+
+div:hover{
+    background-color: red;
+    border-radius: 50%;
+}
+
+a:visited{
+    color: red;
+}
+a:active{
+    font-size: 100px;
+}
+
+input:focus{
+    background-color: yellow;
+    font-size: 50px;
+}
